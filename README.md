@@ -1,4 +1,4 @@
-# 🔗 TinyGate – URL Shortener (AWS + Docker Deployment)
+[# 🔗 TinyGate – URL Shortener (AWS + Docker Deployment)
 
 ## 📌 Project Description
 
@@ -231,3 +231,4 @@ npm run build
 # 👨‍💻 Author
 
 Developed as a Full-Stack + DevOps learning project.
+](https://github.com/fahadkhan007/tinygate)
