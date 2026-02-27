@@ -1,4 +1,4 @@
-[# 🔗 TinyGate – URL Shortener (AWS + Docker Deployment)
+## [ 🔗 TinyGate – URL Shortener (AWS + Docker Deployment)
 
 ## 📌 Project Description
 
